@@ -13,7 +13,7 @@ You need to set up python scripting for materialise software packages (mimics & 
 2. Run the script "wrap_and_smooth_fem.py"
 3. Run the script "remove_cortex_from_cement" in case you have cemented model. 
 ## Creating volume meshes in 3-matic
-1. Import 3d models from mimics to 3-matic.
+1. Import 3D models from mimics to 3-matic.
 2. Run the script "non_manifold_assembly1.py", "non_manifold_assembly2.py", and "non_manifold_assembly3.py".
 Note: if you perform non-manifold assembly and spliting the parts in 3-matic without scripting, for creating the emsh you can use only this script "create_mesh.py".  
 ## Material assignment in mimics
@@ -22,7 +22,7 @@ Note: if you perform non-manifold assembly and spliting the parts in 3-matic wit
 
 ## Citing
 
-The following publication cover technical parts of μSBS project:
+The following publication cover technical parts of this project:
 ```bibtex
   authors    = {Fahimeh Azari, Amelie Sas, Karl P Kutzner, Andreas Klockow, Thierry Scheerlinck, G Harry van Lenthe},
   title     = {Cemented short‐stem total hip arthroplasty: Characteristics of line‐to‐line versus undersized cementing techniques using a validated CT‐based finite element analysis},
