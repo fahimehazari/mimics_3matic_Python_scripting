@@ -27,7 +27,7 @@ The following publication cover the technical parts of this project:
 ```bibtex
   authors    = {Fahimeh Azari, Amelie Sas, Karl P Kutzner, Andreas Klockow, Thierry Scheerlinck, G Harry van Lenthe},
   title     = {Cemented short‐stem total hip arthroplasty: Characteristics of line‐to‐line versus undersized cementing techniques using a validated CT‐based finite element analysis},
-  Journal= {Journal of Orthopaedic Research®},
+  Journal= {Orthopaedic Research®},
   Issue = {8},
   Volume = {39},
   pages = {1681--1690},
