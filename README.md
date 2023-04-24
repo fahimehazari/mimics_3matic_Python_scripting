@@ -1,7 +1,8 @@
 # 3D-Modeling-mimics-3matic
 Using Python scripts for creating volume mesh of implanted cemented human femoral bones and then assigning linear/non-linear gray scale-based material properties.
-## Required packages
+
 You need to set up Python scripting for materialise software packages (mimics & 3-matic) to automate your workflow. In the following [youtube video](https://www.youtube.com/watch?v=iVBCNZykcrc&t=10s) you can find Python installation and configuring mimics and 3-matic to start scripting.
+## Required packages
 * mimics  
 * trimatic
 * numpy
